@@ -5,7 +5,7 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-
+    position: fixed;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -276,3 +276,8 @@ img#team {
   margin-right: 250px;
 }
 
+
+.navbar{
+  position:fixed;
+  background-color:white;
+}
