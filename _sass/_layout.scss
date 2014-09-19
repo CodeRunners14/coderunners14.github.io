@@ -1,14 +1,6 @@
 /**
  * Site header
  */
-
-
-/*Ben making about us*/
-.about-us {
- text-align: left;
-}
-
-
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
@@ -125,7 +117,7 @@
 
 /* Floating about us image */
 img#team {
-  float: left;
+  float: right;
 }
 
 .contactus {
