@@ -228,6 +228,15 @@ img#team {
 /**
  * Posts
  */
+
+img#blog-image {
+  float: right;
+}
+
+p#blog-text {
+  float: left;
+}
+
 .post-header {
     margin-bottom: $spacing-unit;
 }

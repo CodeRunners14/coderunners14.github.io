@@ -3,5 +3,12 @@ layout: post
 title: Our First Day
 date: 2014-09-16 17:00:00
 categories: jekyll update
+featured-image: <img src="/photos/coffee" height="300px"/>
 ---
-The first day at founders and coders was very exciting. We took our positions below a café and met everyone in the team. Being below a coffee shop is fantastic. Coding seems to go hand in hand with caffeine. Working with code can be quite draining on your concentration. A nice jolt of caffeine can be exactly what you need to get you focused on overcoming a problem.
+<img id="blog-image" src="/photos/coffee" height="300px"/>
+
+<div class="blog-text">
+<p >The first day at founders and coders was very exciting. We took our positions below a café and met everyone in the team. Being below a coffee shop is fantastic. Coding seems to go hand in hand with caffeine.</p>
+
+<p>Working with code can be quite draining on your concentration. A nice jolt of caffeine can be exactly what you need to get you focused on overcoming a problem.</p>
+</div>
