@@ -9,7 +9,7 @@ $.ajax({
         $( "#sport" ).append(str);
       });
     }  
-  })
+  });
 
 $.ajax({
    
@@ -20,7 +20,7 @@ $.ajax({
         $( "#travel" ).append(str);
       });
     }  
-  })
+  });
 
 $.ajax({
    
@@ -31,7 +31,7 @@ $.ajax({
         $( "#uk-news" ).append(str);
       });
     }  
-  })
+  });
        
   
 });
