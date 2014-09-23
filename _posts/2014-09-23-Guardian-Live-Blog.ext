@@ -7,7 +7,7 @@ categories: jekyll update
 
 <!-- Nav tabs -->
 <ul class="nav nav-tabs" role="tablist">
-  <li class="active"><a href="#home" role="tab" data-toggle="tab">Home</a></li>
+  <li class="active"></li>
   <li><a href="#football" role="tab" data-toggle="tab">Football</a></li>
   <li><a href="#uk-news" role="tab" data-toggle="tab">UK News</a></li>
   <li><a href="#travel" role="tab" data-toggle="tab">Travel</a></li>
@@ -15,7 +15,7 @@ categories: jekyll update
 
 <!-- Tab panes -->
 <div class="tab-content">
-  <div class="tab-pane active" id="football">...</div>
-  <div class="tab-pane" id="uk-news">...</div>
-  <div class="tab-pane" id="travel">...</div>
+  <div class="tab-pane active" id="football"></div>
+  <div class="tab-pane" id="uk-news"></div>
+  <div class="tab-pane" id="travel"></div>
 </div>
