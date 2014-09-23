@@ -1,0 +1,22 @@
+---
+layout: post
+title: Building Our Blog
+date: 2014-09-16 17:00:00
+categories: jekyll update
+featured-image: <img id="blog-image" src="/photos/coffee" height="250px"/>
+---
+
+<p>The first day at founders and coders was very exciting. We took our positions below a café and met everyone in the team. Being below a coffee shop is fantastic. Coding seems to go hand in hand with caffeine.</p>
+
+<p>Working with code can be quite draining on your concentration. A nice jolt of caffeine can be exactly what you need to get you focused on overcoming a problem.</p>
+
+<p>After getting together with our team, we began our first weeks project; create a blog using jeykll's framework, via a github repository. Jekyll is a template for web design, which is particularly suited for blog design. However the framework has a lot of built in shortcuts that took us quite a bit of time to familiarise ourselves with. Aspects like the Sass, which is a shortcut for CSS, while a fantastic way to shortcut writing CSS for a lot of code, was quite confusing initially.</p> 
+
+<p>However the mammoth challenge for us, bravely tackled by Ben, our teams first Repo-man, consisted of organising this project via a Git Hub repository. Git is a program, hooked up to a server (Git Hub) which allows teams of developers to divide up segments of code on a project. Users create branches which they can work on remotely via their own platforms, uploading (otherwise known as pushing) to the main project when these segments of code are ready to be integrated.</p>
+
+<p>This is particularly relevant because code created by several users can often conflict, thereby creating bugs within the overall script. Git Hub, in theory creates a mechanism through which to monitor any bugs/conflicts and to attempt to iron out any problems that might arrise.</p>
+
+<p>But it is not for the faint of heart, as you must use machine code, rather than a more friendly User Interface to navigate it. This was a new language for us, which took some getting used to. But now we have a far better sense of how to communicate directly with the console, to better manipulate Git. The other challenge that we've had has been iron out any merge conflicts that have occurred when we have pushed branches onto our git repository. This was a major hiccup in the early days of our work. However we've now learnt how important it is to divide up clear distinictions between each members work. </p>
+
+<p>This week was anything but easy, however we've learnt a lot and are ready for the next week!</p>
+
