@@ -110,6 +110,10 @@
    height: 250px;
 }
 
+.site-headerimage p {
+  text-align: center;
+}
+
 .headerbutton {
    border-top: 1px solid #000000;
    padding: 10px 20px 10px 20px;
@@ -122,8 +126,8 @@
    text-decoration: none;
    vertical-align: middle;
    text-align: center;
-   margin-left: 40%;
-   margin-top: 50%;
+   //margin-left: 40%;
+   //margin-top: 50%;
    }
 .headerbutton:hover {
    border-top-color: #000000;
