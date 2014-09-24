@@ -12,7 +12,7 @@ $.ajax({
         var str = '<li><a href="'+
             data.response.results[i].webUrl + '">'+
             data.response.results[i].webTitle + "</a> <br>" +
-            data.response.results[i].fields.trailText;+"</li>"
+            data.response.results[i].fields.trailText; + '</li>'
         
         $( "#" + sect ).append(str);
         }
