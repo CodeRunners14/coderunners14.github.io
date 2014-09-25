@@ -9,9 +9,10 @@ $.ajax({
       
       for(var i=0; i<5; i++) {
         
-        var str = '<li><a href="'+
-            data.response.results[i].webUrl + '">'+
-            data.response.results[i].webTitle + "</a> <br>" +
+   var str = '<li class="row"><a class="col-md-8" href="'+
+            data.response.results[i].webUrl + '">'+'<img src="'+
+            data.response.results[i].fields.thumbnail + '" class="col-md-4" />' +
+            data.response.results[i].webTitle + "</a>" +
             data.response.results[i].fields.trailText; + '</li>'
         
         $( "#" + sect ).append(str);
