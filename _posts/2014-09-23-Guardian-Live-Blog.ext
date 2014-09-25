@@ -4,13 +4,13 @@ title: Live News Feed
 date: 2014-09-23 17:00:00
 categories: jekyll update
 ---
-
+<a href="http://www.theguardian.com/uk"><img src="http://static.guim.co.uk/static/60ed206dbccc8b808a7792d47862f9cfb7cd3d67/common/images/logos/the-guardian/titlepiece.gif"></a>
 <!-- Nav tabs -->
 <ul class="nav nav-tabs" role="tablist">
   <li class="active"></li>
-  <li><a href="#football" role="tab" data-toggle="tab">Football</a></li>
-  <li><a href="#uk-news" role="tab" data-toggle="tab">UK News</a></li>
-  <li><a href="#travel" role="tab" data-toggle="tab">Travel</a></li>
+  <li><a href="#football" role="tab" id="footballtab" data-toggle="tab">Football</a></li>
+  <li><a href="#uk-news" role="tab" id="uknewstab" data-toggle="tab">UK News</a></li>
+  <li><a href="#travel" role="tab" id="traveltab" data-toggle="tab">Travel</a></li>
 </ul>
 
 <!-- Tab panes -->
