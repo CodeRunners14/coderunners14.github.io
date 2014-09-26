@@ -13,7 +13,7 @@ $.ajax({
             data.response.results[i].webUrl + '">'+'<img src="'+
             data.response.results[i].fields.thumbnail + '" class="col-md-4" />' +
             data.response.results[i].webTitle + "</a>" +
-            data.response.results[i].fields.trailText.substr(0,130)+"..." + '</li>'
+            data.response.results[i].fields.trailText.substr(0,130)+"..." + '</li>';
         
         $( "#" + sect ).append(str);
         }
