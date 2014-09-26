@@ -4,11 +4,17 @@
 
 //
 .nav-tabs {
-  font-family: georgia, serif;
-  
+  font-family: georgia, serif;  
   
 }
 
+.tab-content {
+  list-style-type:none;
+}
+
+.gtableline:nth-child(odd) {
+  background-color: #EDEDED;
+}
 
 #footballtab{
   color: #008000;
@@ -28,6 +34,7 @@
   border-top-width: 3px;
   padding-top: 2px;
 }
+
 
 #traveltab{
   color: #066EC9;
