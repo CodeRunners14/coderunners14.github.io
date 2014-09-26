@@ -13,11 +13,12 @@
 .site-title {
     color: #eeeeee;
     font-size: 12px;
-    line-height: 52px;
+    //line-height: 52px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
     text-align: center;
+    height: 25px;
 
     &,
     &:visited {
@@ -273,6 +274,8 @@ img#team {
   position: float;
   background-color:#424242;
   margin: 0;
+  height: 25px;
+  min-height: 25px;
 }
 
 
@@ -333,10 +336,3 @@ img#blog-image {
   border:10px;
   margin-right: 250px;
 }
-
-
-/*.navbar{
-  position:fixed;
-  background-color:white;
- 
-}*/
