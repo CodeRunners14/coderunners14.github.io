@@ -10,8 +10,22 @@
     position: relative;
 }
 
+.header-text{
+  text-align: center;
+  font-weight:900;
+  position: relative;
+  top: 35px;
+  left: 60px;
+}
+
 .maintitle {
-    font-family: strong italics;
+    font-weight: 900;
+    font-size: 4em;
+    margin-bottom: 1px;
+}
+
+.subtitle {
+  font-size: 1.9em;
 }
 
 .site-title {
