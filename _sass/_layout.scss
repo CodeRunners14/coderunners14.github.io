@@ -10,8 +10,25 @@
     position: relative;
 }
 
+.header-text{
+  text-align: center;
+  font-weight:900;
+  position: relative;
+  top: 35px;
+  left: 60px;
+  width: 500px;
+}
+
 .maintitle {
-    font-family: strong italics;
+    font-weight: 900;
+    font-size: 4em;
+    margin-bottom: 1px;
+    color: white;
+}
+
+.subtitle {
+  font-size: 1.9em;
+  color: white;
 }
 
 .site-title {
@@ -111,7 +128,7 @@
 }
 
 .site-headerimage {
-   background: url(/photos/runnerstretching1.png);
+   background: url(/photos/woman_fee.jpg);
    background-size: cover;
    width: 100%;		   
    height: 250px;
