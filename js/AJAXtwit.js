@@ -4,7 +4,6 @@ $.ajax({
     success: function(data) {
        var str = data;
         $( "#ajaxy" ).append(str)
-
   }
 });
 });
