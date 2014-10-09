@@ -5,7 +5,7 @@ $.ajax({
        var array = JSON.parse(data);
       
       var str = '';
-        for(var i=0; i<5; i++) {
+        for(var i=0; i<array.length; i++) {
            str += '<li class="row gtableline"><img src="'
                + array[i] + '" class="col-md-4" /></li>';
         }
