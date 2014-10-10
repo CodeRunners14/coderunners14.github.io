@@ -1,13 +1,13 @@
 $( document ).ready(function(){
 $.ajax({
-    url: "http://chrome-firefly-45-146848.euw1-2.nitrousbox.com:8080/",
+    url: "http://mytwitterapi.herokuapp.com/",
     success: function(data) {
-       var array = JSON.parse(data);
+      var array = JSON.parse(data);
       
       var str = '';
         for(var i=0; i<array.length; i++) {
-           str += '<li class="row gtableline"><img src="'
-               + array[i] + '" class="col-md-4" /></li>';
+           str += '<div class=" col-lg-3 col-md-4 col-xs-6 thumbnail id="outer" ><img src="'
+               + array[i] + '"img-resposive"  /></div>';
         }
       console.log(str)
         $( "#ajaxy" ).append(str)

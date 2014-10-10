@@ -1,0 +1,15 @@
+.thumbnail
+{
+ padding:15px 15px 0px 15px
+	 margin:40px 10px 10px 10px
+}
+
+ #outer{
+	position:relatve; 
+	padding-bottom:100%
+  margin:auto;
+	overflow:hidden;
+	border-radius:5px;
+	
+}
+
