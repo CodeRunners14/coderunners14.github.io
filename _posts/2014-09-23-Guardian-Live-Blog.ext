@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Live News Feed
+title: Guardian News Feed
 date: 2014-09-23 17:00:00
 categories: jekyll update
 ---
 <a href="http://www.theguardian.com/uk"><img src="http://static.guim.co.uk/static/60ed206dbccc8b808a7792d47862f9cfb7cd3d67/common/images/logos/the-guardian/titlepiece.gif"></a>
+
 <!-- Nav tabs -->
 <ul class="nav nav-tabs" role="tablist">
   <li class="active"></li>
