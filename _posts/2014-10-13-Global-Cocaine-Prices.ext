@@ -3,6 +3,6 @@ layout: post
 title: Global Cocaine Pricing
 date: 2014-10-13 17:00:00
 categories: jekyll update
-featured-image: <img id="blog-image" src="/photos/scarfacecocaine.jpg" height="150px"/>
+featured-image: <img src="/photos/scarfacecocaine.jpg" height="150px"/>
 ---
 <embed src="http://localhost:8080/" width="900" height="200"style="border:1px solid">
