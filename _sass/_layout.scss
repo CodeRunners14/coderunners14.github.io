@@ -219,14 +219,18 @@ img#team {
   float: right;
 }
 
+.footer-row {
+	text-align: center;
+}
+
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
 
 .footer-heading {
-    font-size: 18px;
     margin-bottom: $spacing-unit / 2;
+		margin-left: 2.5em;
 }
 
 .contact-list,
@@ -381,5 +385,4 @@ img#blog-image {
   height: 120px;
   vertical-align: bottom;
   border:10px;
-  margin-right: 250px;
 }
