@@ -3,6 +3,7 @@ layout: post
 title: Live Twitter Gallery
 date: 2014-10-09 17:00:00
 categories: jekyll update
+featured-image: <img src="/photos/twitter.png" height="150px" width="282px"/>
 ---
 
 <div id="ajaxy" class="row"></div>

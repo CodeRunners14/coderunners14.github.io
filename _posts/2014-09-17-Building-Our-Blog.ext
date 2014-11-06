@@ -3,7 +3,7 @@ layout: post
 title: Building Our Blog
 date: 2014-09-16 17:00:00
 categories: jekyll update
-featured-image: <img id="blog-image" src="/photos/coffee" height="150px"/>
+featured-image: <img src="/photos/team1" height="150px" width="282px"/>
 ---
 
 <p>The first day at founders and coders was very exciting. We took our positions below a café and met everyone in the team. Being below a coffee shop is fantastic. Coding seems to go hand in hand with caffeine.</p>
