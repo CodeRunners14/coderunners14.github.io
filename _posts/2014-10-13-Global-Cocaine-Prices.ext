@@ -5,4 +5,3 @@ date: 2014-10-13 17:00:00
 categories: jekyll update
 featured-image: <img src="/photos/images.jpg" height="150px"/>
 ---
-<embed src="http://localhost:8080/" width="900" height="200"style="border:1px solid">
